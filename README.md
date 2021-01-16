@@ -1,4 +1,4 @@
-<img src="anni.jpeg" alt="personal icon" width="200"/>
+<img src="anni.jpeg" alt="personal icon" width="150"/>
 
 # Forecasting Tourism Demand with Google Searches
 *Anna Fonte Farré*
